@@ -2,12 +2,17 @@
 
 ## 1. Datos generales
 
-- Institución: I.E.S.T.P. Teodoro Rivera Taipe
-- Programa de estudios: Computación e Informática
-- Unidad didáctica: [Completar]
-- Docente: [Completar]
-- Integrantes: [Completar]
-- Fecha: 22/11/2026
+- **Institución:** I.E.S.T.P. Teodoro Rivera Taipe
+- **Programa de estudios:** Computación e Informática
+- **Unidad didáctica:** ITIL
+- **Docente:** Isaac Bruno Bizares
+- **Integrantes:**
+  - Diego Franco De la Cruz Dela Cruz
+  - Alison Mercado Cordova
+  - Greis Arca Montalvan
+  - Sheyli Condori Llactahuaman
+- **Modalidad:** Trabajo en equipo
+- **Fecha:** 22/11/2026
 
 ## 2. Objetivo
 
@@ -17,19 +22,20 @@ Implementar un flujo de trabajo utilizando Git y GitHub para controlar las versi
 
 Se configuró el entorno de trabajo con Git, Python y Visual Studio Code. Posteriormente, se creó un repositorio remoto en GitHub y se organizó el proyecto mediante carpetas para el código fuente, las pruebas y la documentación.
 
-Se utilizaron ramas para separar las actividades de desarrollo, se realizaron commits para registrar los cambios y se publicaron las ramas en GitHub. También se crearon Issues para organizar las tareas y Pull Requests para revisar e integrar los cambios en la rama de desarrollo.
+Se utilizaron ramas para separar las actividades de desarrollo, se realizaron commits para registrar los cambios y se publicaron los cambios en GitHub. También se crearon Issues para organizar las tareas y Pull Requests para revisar e integrar los cambios en la rama de desarrollo.
 
 Finalmente, se realizó una práctica de resolución de conflictos para comprobar cómo Git permite identificar y solucionar modificaciones realizadas sobre una misma parte de un archivo.
 
 ## 4. Resultados verificados
 
-- URL del repositorio: https://github.com/71257566-commits/sistema-academico-colaborativo
-- Ramas: verificar mediante `git branch -a`.
-- Commits relevantes: verificar mediante el historial de Git.
-- Issues completados: verificar en GitHub.
-- Pull Requests fusionados: verificar en GitHub.
-- Resultado de las pruebas: 7 pruebas aprobadas.
-- Conflicto resuelto: Sí.
+- **URL del repositorio:** https://github.com/71257566-commits/sistema-academico-colaborativo
+- **Ramas:** Se crearon y utilizaron ramas para organizar las actividades del proyecto.
+- **Commits:** Se registraron los cambios realizados durante el desarrollo.
+- **Issues:** Se crearon 5 Issues, de los cuales 1 está cerrado y 4 permanecen abiertos.
+- **Pull Requests:** Se fusionaron los Pull Requests #4, #7 y #8 en la rama de desarrollo.
+- **Pruebas automatizadas:** Se obtuvieron 7 pruebas aprobadas.
+- **Resolución de conflictos:** Se identificó y solucionó correctamente un conflicto entre ramas.
+- **Estado final:** El repositorio quedó sincronizado con GitHub y sin cambios pendientes.
 
 ## 5. Dificultades y soluciones
 
@@ -43,7 +49,7 @@ También se realizó una práctica de conflicto entre ramas, que fue solucionada
 
 Se aprendió a utilizar Git para registrar cambios, crear y administrar ramas, realizar commits y sincronizar el trabajo con GitHub. Asimismo, se comprendió la utilidad de los Issues y Pull Requests para organizar las tareas y revisar los cambios antes de integrarlos.
 
-También se reforzó el uso de pruebas automatizadas para comprobar el funcionamiento del sistema.
+También se reforzó el uso de pruebas automatizadas para comprobar el funcionamiento del sistema y la importancia de resolver conflictos durante el trabajo colaborativo.
 
 ## 7. Mejoras futuras
 
