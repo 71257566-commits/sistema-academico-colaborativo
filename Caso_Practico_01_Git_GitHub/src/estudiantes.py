@@ -1,4 +1,7 @@
-"""Funciones básicas para registrar y listar estudiantes."""
+"""Funciones para gestionar el registro de estudiantes.
+
+Permite validar, registrar y consultar estudiantes del sistema académico.
+""" 
 
 def registrar_estudiante(estudiantes, codigo, nombre, programa):
     """Valida y agrega un estudiante a la lista recibida.
