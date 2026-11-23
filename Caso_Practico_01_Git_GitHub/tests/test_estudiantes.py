@@ -36,6 +36,9 @@ class TestEstudiantes(unittest.TestCase):
         resultado = listar_estudiantes(self.estudiantes)
         self.assertEqual([e["codigo"] for e in resultado], ["A001", "A002"])
 
-
+    def test_lista_vacia(self):
+        resultado = listar_estudiantes(self.estudiantes)
+        self.assertEqual(resultado, [])
+        
 if __name__ == "__main__":
     unittest.main()
